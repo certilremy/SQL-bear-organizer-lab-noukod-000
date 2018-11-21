@@ -4,6 +4,6 @@ CREATE TABLE bears (
 age	integer,
 gender	text,
 color	text ,
-temperament	text , 
+temperament	text ,
 alive	boolean
 );
